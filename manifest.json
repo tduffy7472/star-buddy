@@ -1,0 +1,20 @@
+
+{
+  "short_name": "StarBuddy",
+  "name": "Star Buddy: Space Explorer",
+  "description": "Learn about the stars with your AI robot friend!",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3211/3211180.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0a2a",
+  "background_color": "#0a0a2a",
+  "scope": "/"
+}
